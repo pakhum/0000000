@@ -1,0 +1,33 @@
+﻿{
+	"version": 1538493605,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/tiledbackground.png",
+		"images/พื้น-sheet0.png",
+		"images/พื้น2-sheet0.png",
+		"images/hero-sheet0.png",
+		"images/hero-sheet1.png",
+		"images/hero-sheet2.png",
+		"images/hero-sheet3.png",
+		"images/door-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/tiledbackground2.png",
+		"images/sprite2-sheet0.png",
+		"images/sprite3-sheet0.png",
+		"images/tiledbackground3.png",
+		"images/sprite4-sheet0.png",
+		"media/mario-coin (online-audio-converter.com).m4a",
+		"media/mario-coin (online-audio-converter.com).ogg",
+		"media/bensound-happiness.m4a",
+		"media/bensound-happiness.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
